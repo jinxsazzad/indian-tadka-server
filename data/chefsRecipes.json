@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "name": "Sanjeev Kapoor",
+    "years_of_experience": 30,
+    "num_recipes": 1500,
+    "likes": 5000000,
+    "picture_url": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Butter Chicken",
+        "ingredients": [
+          "Boneless Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Butter",
+          "Tomato Puree",
+          "Heavy Cream"
+        ],
+        "cooking_method": "Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. Grill the chicken in a tandoor or oven. In a separate pan, melt butter and sautee tomato puree and spices until cooked. Add heavy cream and cooked chicken to the tomato mixture. Simmer for a few minutes until flavors are combined.",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Paneer Tikka Masala",
+        "ingredients": [
+          "Paneer",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Tomato Puree",
+          "Heavy Cream"
+        ],
+        "cooking_method": "Marinate paneer with yogurt, ginger garlic paste, and spices for at least 30 minutes. Grill the paneer in a tandoor or oven. In a separate pan, sautee tomato puree and spices until cooked. Add heavy cream and cooked paneer to the tomato mixture. Simmer for a few minutes until flavors are combined.",
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Dal Makhani",
+        "ingredients": [
+          "Black Lentils",
+          "Kidney Beans",
+          "Butter",
+          "Cream",
+          "Tomato Puree",
+          "Ginger Garlic Paste",
+          "Garam Masala"
+        ],
+        "cooking_method": "Soak black lentils and kidney beans overnight. Pressure cook the lentils and beans until soft. In a separate pan, melt butter and sautee ginger garlic paste and garam masala until fragrant. Add tomato puree and cooked lentils and beans to the pan. Simmer for a few minutes. Add cream and simmer for a few more minutes until flavors are combined.",
+        "rating": 4.6
+      },
+      {
+        "id": 4,
+        "name": "Rajma Masala",
+        "ingredients": [
+          "Kidney Beans",
+          "Butter",
+          "Tomato Puree",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Green Chili",
+          "Coriander Leaves"
+        ],
+        "cooking_method": "Soak kidney beans overnight. Pressure cook the beans until soft. In a separate pan, melt butter and sautee ginger garlic paste, garam masala, and green chili until fragrant. Add tomato puree and cooked kidney beans to the pan. Simmer for a few minutes. Garnish with coriander leaves.",
+        "rating": 4.5
+      },
+      {
+        "id": 5,
+        "name": "Chicken Korma",
+        "ingredients": [
+          "Bone",
+          "less Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Almonds",
+          "Onions",
+          "Tomatoes"
+        ],
+        "cooking_method": "Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. In a separate pan, sautee onions until brown. Add tomatoes, almonds, and spices to the pan and cook until tomatoes are soft. Blend the mixture in a blender until smooth. Add the blended mixture to the marinated chicken and cook for a few minutes until chicken is cooked. Garnish with kasuri methi.",
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Pav Bhaji",
+        "ingredients": [
+          "Potatoes",
+          "Tomatoes",
+          "Onions",
+          "Bell Peppers",
+          "Green Peas",
+          "Butter",
+          "Pav Buns",
+          "Pav Bhaji Masala"
+        ],
+        "cooking_method": "Boil potatoes and green peas until soft. In a separate pan, sautee onions and bell peppers until soft. Add chopped tomatoes and pav bhaji masala to the pan and cook until tomatoes are soft. Add the boiled potatoes and green peas to the pan and mash them with a masher. Cook for a few more minutes. Toast the pav buns with butter. Serve hot with the pav buns.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vikas Khanna",
+    "years_of_experience": 20,
+    "num_recipes": 500,
+    "likes": 2000000,
+    "picture_url": "https://img.etimg.com/thumb/msid-61959797,width-650,height-488,imgsize-158525,,resizemode-75/.jpg",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "ingredients": [
+          "Basmati Rice",
+          "Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Onions",
+          "Tomatoes",
+          "Garam Masala"
+        ],
+        "cooking_method": "Soak basmati rice for 30 minutes. Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. In a separate pan, sautee onions until brown. Add tomatoes, chicken, and spices to the pan and cook until chicken is cooked. In a separate pan, boil water and add rice. Cook rice until 80% done. In a separate pan, layer the rice and chicken mixture. Cook on low heat until rice is fully cooked.",
+        "rating": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Butter Naan",
+        "ingredients": [
+          "All Purpose Flour",
+          "Yogurt",
+          "Baking Powder",
+          "Baking Soda",
+          "Sugar",
+          "Butter"
+        ],
+        "cooking_method": "Mix all the dry ingredients in a bowl. Add yogurt and butter to the bowl and knead the dough. Cover and let the dough rest for 2 hours. Preheat the oven to 500F. Roll out the dough and brush with melted butter. Bake in the oven for 2-3 minutes until golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Tandoori Chicken",
+        "ingredients": [
+          "Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Lemon Juice"
+        ],
+        "cooking_method": "Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. Preheat the oven to 400F. Place the marinated chicken on a baking sheet and bake for 20-25 minutes until cooked. Garnish with kasuri methi and lemon juice.",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "name": "Dal Makhani",
+        "ingredients": [
+          "Black Lentils",
+          "Red Kidney Beans",
+          "Onions",
+          "Tomatoes",
+          "Ginger Garlic Paste",
+          "Butter",
+          "Cream",
+          "Garam Masala"
+        ],
+        "cooking_method": "Soak black lentils and red kidney beans overnight. In a pressure cooker, cook the lentils and beans until soft. In a separate pan, sautee onions until brown. Add tomatoes, ginger garlic paste, and spices to the pan and cook until tomatoes are soft. Add the cooked lentils and beans to the pan and cook for a few more minutes. Add cream and butter to the pan and cook for a few more minutes. Garnish with garam masala.",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Paneer Tikka Masala",
+        "ingredients": [
+          "Paneer",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Onions",
+          "Tomatoes",
+          "Bell Peppers"
+        ],
+        "cooking_method": "Marinate paneer with yogurt, ginger garlic paste, and spices for at least 30 minutes. In a separate pan, sautee onions until brown. Add tomatoes and bell peppers to the pan and cook until tomatoes are soft. Blend the mixture in a blender until smooth. Add the blended mixture to the pan and cook for a few minutes. Add the marinated paneer to the pan and cook for a few more minutes. Garnish with kasuri methi.",
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Gulab Jamun",
+        "ingredients": [
+          "Milk Powder",
+          "All Purpose Flour",
+          "Baking Powder",
+          "Milk",
+          "Sugar",
+          "Cardamom Powder",
+          "Rose Water"
+        ],
+        "cooking_method": "Mix milk powder, all-purpose flour, and baking powder in a bowl. Add milk and knead the dough. Let the dough rest for 10 minutes. In a separate pan, heat sugar, water, cardamom powder, and rose water. Make small balls out of the dough and deep fry them until golden brown. Add the fried balls to the sugar syrup and let them soak for at least 30 minutes.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tarla Dalal",
+    "years_of_experience": 40,
+    "num_recipes": 2000,
+    "likes": 7500000,
+    "picture_url": "https://media.darpanmagazine.com/library/uploads/food/content/tarla-dalal.jpg",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Palak Paneer",
+        "ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green Chilies",
+          "Turmeric Powder",
+          "Coriander Powder",
+          "Cumin Powder",
+          "Garam Masala",
+          "Cream"
+        ],
+        "cooking_method": "Blanch the spinach in hot water and puree it. In a separate pan, sauté onion, ginger, garlic, and green chilies. Add chopped tomatoes, turmeric powder, coriander powder, and cumin powder. Cook until the tomatoes are soft. Add spinach puree and paneer to the pan. Add garam masala and cream. Cook for a few minutes until flavors are combined.",
+        "rating": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Chole Bhature",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green Chilies",
+          "Coriander Powder",
+          "Cumin Powder",
+          "Garam Masala",
+          "Amchur Powder",
+          "Baking Powder",
+          "Maida Flour",
+          "Sooji",
+          "Oil"
+        ],
+        "cooking_method": "Soak chickpeas overnight. Pressure cook the chickpeas until soft. In a separate pan, sauté onion, ginger, garlic, and green chilies. Add chopped tomatoes, coriander powder, cumin powder, and garam masala. Cook until the tomatoes are soft. Add cooked chickpeas to the pan. Add amchur powder and salt. Cook for a few minutes. For bhature, mix maida flour, sooji, salt, and baking powder in a bowl. Add water and knead into a dough. Let the dough rest for 30 minutes. Roll out the dough and deep fry in oil until golden brown. Serve hot with chole.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Aloo Gobi",
+        "ingredients": [
+          "Potatoes",
+          "Cauliflower",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green Chilies",
+          "Turmeric Powder",
+          "Coriander Powder",
+          "Cumin Powder",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Coriander Leaves"
+        ],
+        "cooking_method": "In a pan, heat oil and sauté onion, ginger, garlic, and green chilies. Add chopped tomatoes, turmeric powder, coriander powder, and cumin powder. Cook until the tomatoes are soft. Add diced potatoes and cauliflower florets to the pan. Add garam masala and salt. Cook for a few minutes. Add kasuri methi and coriander leaves. Cook for a few more minutes until vegetables are cooked.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ranveer Brar",
+    "years_of_experience": 20,
+    "num_recipes": 800,
+    "likes": 3000000,
+    "picture_url": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Butter Garlic Prawns",
+        "ingredients": [
+          "Prawns",
+          "Butter",
+          "Garlic",
+          "Lemon Juice",
+          "Black Pepper",
+          "Parsley"
+        ],
+        "cooking_method": "Marinate the prawns with butter, garlic, lemon juice, black pepper, and parsley for 30 minutes. Grill the prawns in a pan or on a griddle until cooked. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Fish Curry",
+        "ingredients": [
+          "Fish",
+          "Coconut Milk",
+          "Onion",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Turmeric",
+          "Red Chili Powder",
+          "Coriander Powder",
+          "Cumin Powder",
+          "Garam Masala",
+          "Curry Leaves"
+        ],
+        "cooking_method": "In a pan, sautee onions, ginger, and garlic until brown. Add chopped tomatoes and cook until soft. Add turmeric, red chili powder, coriander powder, and cumin powder and sautee for a minute. Add coconut milk and bring to a boil. Add the fish and cook until done. Add garam masala and curry leaves for flavor.",
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "name": "Butter Chicken Biryani",
+        "ingredients": [
+          "Chicken",
+          "Basmati Rice",
+          "Butter",
+          "Onion",
+          "Ginger Garlic Paste",
+          "Tomato",
+          "Curd",
+          "Turmeric",
+          "Red Chili Powder",
+          "Coriander Powder",
+          "Garam Masala",
+          "Mint Leaves",
+          "Coriander Leaves"
+        ],
+        "cooking_method": "Marinate the chicken with curd, turmeric, red chili powder, coriander powder, and garam masala for at least 30 minutes. In a pan, sautee onions until brown. Add ginger garlic paste and cook until fragrant. Add chopped tomatoes and cook until soft. Add marinated chicken and cook until done. Boil basmati rice until half done. Layer the chicken and rice in a pan. Add butter, mint leaves, and coriander leaves. Bake in the oven for 10-15 minutes. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "name": "Palak Paneer",
+        "ingredients": [
+          "Paneer",
+          "Spinach",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green Chili",
+          "Garam Masala",
+          "Cumin Powder",
+          "Coriander Powder",
+          "Cream",
+          "Butter"
+        ],
+        "cooking_method": "In a pan, sautee onions, ginger, garlic, and green chili until brown. Add chopped tomatoes and cook until soft. Add garam masala, cumin powder, and coriander powder and sautee for a minute. Add spinach and cook until wilted. Blend the mixture in a blender until smooth",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Madhur Jaffrey",
+    "years_of_experience": 50,
+    "num_recipes": 500,
+    "likes": 200000,
+    "picture_url": "https://www.telegraph.co.uk/multimedia/archive/01372/pcurry1_1372531c.jpg?imwidth=960",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "Boneless Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Tomato Puree",
+          "Heavy Cream"
+        ],
+        "cooking_method": "Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. Grill the chicken in a tandoor or oven. In a separate pan, sauté ginger garlic paste, garam masala, and tomato puree until cooked. Add the cooked chicken and kasuri methi to the pan. Pour heavy cream into the pan and simmer for a few minutes until the flavors are combined.",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Aloo Gobi",
+        "ingredients": [
+          "Potatoes",
+          "Cauliflower",
+          "Cumin Seeds",
+          "Coriander Powder",
+          "Turmeric Powder",
+          "Garam Masala",
+          "Tomatoes",
+          "Green Chili",
+          "Ginger",
+          "Garlic",
+          "Fresh Coriander Leaves"
+        ],
+        "cooking_method": "Heat oil in a pan, add cumin seeds, and wait until they splutter. Add chopped ginger, garlic, and green chili, and sauté for a few seconds. Add chopped tomatoes, coriander powder, turmeric powder, and garam masala to the pan and cook until tomatoes are soft. Add chopped potatoes and cauliflower and mix well. Cover the pan and cook on medium heat for 20 minutes. Garnish with fresh coriander leaves before serving.",
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "name": "Palak Paneer",
+        "ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Green Chili",
+          "Ginger",
+          "Garlic",
+          "Cumin Seeds",
+          "Coriander Powder",
+          "Turmeric Powder",
+          "Garam Masala",
+          "Fresh Cream"
+        ],
+        "cooking_method": "Boil spinach for 3-4 minutes, strain and blend it to a smooth puree. In a separate pan, heat oil and add cumin seeds. Add chopped onion, ginger, garlic, and green chili, and sauté until onions turn golden brown. Add chopped tomatoes, coriander powder, turmeric powder, and garam masala to the pan and cook until tomatoes are soft. Add the spinach puree and cook for a few minutes. Add fresh cream and paneer cubes to the pan and simmer for 2-3 minutes until the flavors are combined.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Saransh Goila",
+    "years_of_experience": 10,
+    "num_recipes": 200,
+    "likes": 50000,
+    "picture_url": "https://fdstatic.foodfood.com/odd/images/4HQX4uChef-Saransh-Goila.jpg",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Butter Chicken Biryani",
+        "ingredients": [
+          "Basmati Rice",
+          "Chicken",
+          "Yogurt",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Butter",
+          "Tomato Puree",
+          "Heavy Cream"
+        ],
+        "cooking_method": "Marinate chicken with yogurt, ginger garlic paste, and spices for at least 30 minutes. Grill the chicken in a tandoor or oven. In a separate pan, melt butter and saute tomato puree and spices until cooked. Add heavy cream and cooked chicken to the tomato mixture. In another pan, cook rice until half-done. Spread half of the rice in a biryani pot, add a layer of chicken on top, then add the remaining rice on top. Bake in the oven at 180°C for 15 minutes.",
+        "rating": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Kadhai Paneer",
+        "ingredients": [
+          "Paneer",
+          "Onion",
+          "Tomato",
+          "Green Bell Pepper",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Kasuri Methi",
+          "Coriander Leaves"
+        ],
+        "cooking_method": "In a pan, saute ginger garlic paste until fragrant. Add onions and cook until soft. Add tomatoes and cook until soft. Add garam masala and kasuri methi and mix well. Add cubed paneer and diced green bell pepper. Cook for a few minutes. Garnish with coriander leaves.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Keema Pav",
+        "ingredients": [
+          "Ground Lamb",
+          "Onion",
+          "Tomato",
+          "Ginger Garlic Paste",
+          "Garam Masala",
+          "Coriander Powder",
+          "Turmeric",
+          "Red Chili Powder",
+          "Pav Buns"
+        ],
+        "cooking_method": "In a pan, saute onions until brown. Add ginger garlic paste and cook until fragrant. Add tomatoes and cook until soft. Add garam masala, coriander powder, turmeric, and red chili powder. Mix well. Add ground lamb and cook until browned. Toast the pav buns with butter. Serve hot with the keema.",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Masala Omelette",
+        "ingredients": [
+          "Eggs",
+          "Onion",
+          "Tomato",
+          "Green Chili",
+          "Coriander Leaves",
+          "Salt",
+          "Red Chili Powder",
+          "Turmeric",
+          "Garam Masala",
+          "Butter"
+        ],
+        "cooking_method": "In a bowl, beat eggs with salt, red chili powder, turmeric, and garam masala. Add chopped onions, tomatoes, green chili, and coriander leaves. Mix well. Heat a pan and add butter. Pour the egg mixture and cook until golden brown on both sides.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
