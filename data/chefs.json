@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Sanjeev Kapoor",
+      "image_url": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
+      "years_of_experience": 30,
+      "num_recipes": 1000,
+      "likes": 2000000
+    },
+    {
+      "id": 2,
+      "name": "Vikas Khanna",
+      "image_url": "https://img.etimg.com/thumb/msid-61959797,width-650,height-488,imgsize-158525,,resizemode-75/.jpg",
+      "years_of_experience": 20,
+      "num_recipes": 500,
+      "likes": 500000
+    },
+    {
+      "id": 3,
+      "name": "Tarla Dalal",
+      "image_url": "https://media.darpanmagazine.com/library/uploads/food/content/tarla-dalal.jpg",
+      "years_of_experience": 40,
+      "num_recipes": 2000,
+      "likes": 1000000
+    },
+    {
+      "id": 4,
+      "name": "Ranveer Brar",
+      "image_url": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
+      "years_of_experience": 15,
+      "num_recipes": 300,
+      "likes": 300000
+    },
+    {
+      "id": 5,
+      "name": "Madhur Jaffrey",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/01372/pcurry1_1372531c.jpg?imwidth=960",
+      "years_of_experience": 50,
+      "num_recipes": 800,
+      "likes": 1500000
+    },
+    {
+      "id": 6,
+      "name": "Saransh Goila",
+      "image_url": "https://fdstatic.foodfood.com/odd/images/4HQX4uChef-Saransh-Goila.jpg",
+      "years_of_experience": 10,
+      "num_recipes": 100,
+      "likes": 100000
+    }
+  ]
