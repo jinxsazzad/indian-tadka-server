@@ -3,6 +3,7 @@ const app = express();
 var cors = require("cors");
 const port = process.env.PORT || 5000;
 const chefs = require("./data/chefs.json");
+const chefsRecipes = require("./data/chefsRecipes.json");
 
 app.use(cors());
 
@@ -19,6 +20,10 @@ app.get("/", (req, res) => {
 app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
+app.get("/chef", (req, res) => {
+  res.send(chefsRecipes);
+});
+
 app.listen(port, () => {
   console.log(`Indian Tadka ${port}`);
 });
