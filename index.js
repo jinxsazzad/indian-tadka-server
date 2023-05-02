@@ -23,7 +23,12 @@ app.get("/chefs", (req, res) => {
 app.get("/chef", (req, res) => {
   res.send(chefsRecipes);
 });
-
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const recipesByChefId = chefsRecipes.find((chefRecipes) => id == id);
+  res.send(recipesByChefId);
+});
 app.listen(port, () => {
   console.log(`Indian Tadka ${port}`);
 });
