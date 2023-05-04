@@ -6,6 +6,7 @@
     "num_recipes": 1500,
     "likes": 5000000,
     "picture_url": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
+    "chef_description": "Sanjeev Kapoor is a renowned Indian chef, author, and television personality who is widely recognized as one of the most influential figures in Indian cuisine. He is the host of the popular television cooking show 'Khana Khazana,' which has been broadcast in over 120 countries. Kapoor has authored numerous cookbooks and has also launched his own food and kitchen products line. He is known for his innovative and contemporary approach to Indian cooking, blending traditional flavors with modern techniques. Kapoor has won several awards and accolades for his contribution to the culinary world, and he is considered a culinary icon in India.",
     "recipes": [
       {
         "id": 1,
@@ -110,6 +111,7 @@
     "num_recipes": 500,
     "likes": 2000000,
     "picture_url": "https://img.etimg.com/thumb/msid-61959797,width-650,height-488,imgsize-158525,,resizemode-75/.jpg",
+    "chef_description": "Vikas Khanna is a Michelin-starred Indian-American chef known for his innovative approach to Indian cuisine. He's also a cookbook author and filmmaker, with several documentaries to his credit.",
     "recipes": [
       {
         "id": 1,
@@ -210,6 +212,7 @@
     "num_recipes": 2000,
     "likes": 7500000,
     "picture_url": "https://media.darpanmagazine.com/library/uploads/food/content/tarla-dalal.jpg",
+    "chef_description": "Tarla Dalal was a famous Indian cookbook author, chef, and TV personality, known for her wide range of cookbooks and easy-to-follow recipes. She also hosted popular cooking shows on television.",
     "recipes": [
       {
         "id": 1,
@@ -283,6 +286,7 @@
     "num_recipes": 800,
     "likes": 3000000,
     "picture_url": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
+    "chef_description": "Ranveer Brar is a famous Indian celebrity chef, restaurateur, and television personality known for his innovative approach to Indian cuisine. He's authored cookbooks, hosted cooking shows, and received several awards for his contribution to the culinary industry.",
     "recipes": [
       {
         "id": 1,
@@ -368,6 +372,7 @@
     "num_recipes": 500,
     "likes": 200000,
     "picture_url": "https://www.telegraph.co.uk/multimedia/archive/01372/pcurry1_1372531c.jpg?imwidth=960",
+    "chef_description": "Madhur Jaffrey is a well-known Indian-born actress, food and travel writer, and television personality. She's authored numerous cookbooks and hosted several cooking shows, specializing in Indian cuisine. Jaffrey has also acted in several films and TV shows.",
     "recipes": [
       {
         "id": 1,
@@ -432,6 +437,7 @@
     "num_recipes": 200,
     "likes": 50000,
     "picture_url": "https://fdstatic.foodfood.com/odd/images/4HQX4uChef-Saransh-Goila.jpg",
+    "chef_description": "Saransh Goila is a well-known Indian chef, restaurateur, and TV personality, famous for his modern take on traditional Indian cuisine. He won the 'Food Food Maha Challenge' in 2011 and has since hosted several cooking shows.",
     "recipes": [
       {
         "id": 1,
